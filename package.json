@@ -34,7 +34,7 @@
     "jshint": "~2.x",
     "phantomjs-prebuilt": "^2.1.11",
     "tiny-cdn": "~0.5.x",
-    "uglify-js": "1.x",
+    "uglify-js": "3.x",
     "wru": "~0.2.x"
   }
 }
